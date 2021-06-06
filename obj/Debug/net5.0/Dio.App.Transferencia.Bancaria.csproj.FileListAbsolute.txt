@@ -1,0 +1,16 @@
+C:\workspace\Dio.App.Transferencia.Bancaria\bin\Debug\net5.0\Dio.App.Transferencia.Bancaria.exe
+C:\workspace\Dio.App.Transferencia.Bancaria\bin\Debug\net5.0\Dio.App.Transferencia.Bancaria.deps.json
+C:\workspace\Dio.App.Transferencia.Bancaria\bin\Debug\net5.0\Dio.App.Transferencia.Bancaria.runtimeconfig.json
+C:\workspace\Dio.App.Transferencia.Bancaria\bin\Debug\net5.0\Dio.App.Transferencia.Bancaria.runtimeconfig.dev.json
+C:\workspace\Dio.App.Transferencia.Bancaria\bin\Debug\net5.0\Dio.App.Transferencia.Bancaria.dll
+C:\workspace\Dio.App.Transferencia.Bancaria\bin\Debug\net5.0\ref\Dio.App.Transferencia.Bancaria.dll
+C:\workspace\Dio.App.Transferencia.Bancaria\bin\Debug\net5.0\Dio.App.Transferencia.Bancaria.pdb
+C:\workspace\Dio.App.Transferencia.Bancaria\obj\Debug\net5.0\Dio.App.Transferencia.Bancaria.csproj.AssemblyReference.cache
+C:\workspace\Dio.App.Transferencia.Bancaria\obj\Debug\net5.0\Dio.App.Transferencia.Bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Dio.App.Transferencia.Bancaria\obj\Debug\net5.0\Dio.App.Transferencia.Bancaria.AssemblyInfoInputs.cache
+C:\workspace\Dio.App.Transferencia.Bancaria\obj\Debug\net5.0\Dio.App.Transferencia.Bancaria.AssemblyInfo.cs
+C:\workspace\Dio.App.Transferencia.Bancaria\obj\Debug\net5.0\Dio.App.Transferencia.Bancaria.csproj.CoreCompileInputs.cache
+C:\workspace\Dio.App.Transferencia.Bancaria\obj\Debug\net5.0\Dio.App.Transferencia.Bancaria.dll
+C:\workspace\Dio.App.Transferencia.Bancaria\obj\Debug\net5.0\ref\Dio.App.Transferencia.Bancaria.dll
+C:\workspace\Dio.App.Transferencia.Bancaria\obj\Debug\net5.0\Dio.App.Transferencia.Bancaria.pdb
+C:\workspace\Dio.App.Transferencia.Bancaria\obj\Debug\net5.0\Dio.App.Transferencia.Bancaria.genruntimeconfig.cache
